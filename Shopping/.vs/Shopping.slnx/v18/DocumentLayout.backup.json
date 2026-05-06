@@ -1,0 +1,140 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LASTBORNMESH\\Documents\\CODING\\Shopping\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F360A90D-0FBC-2EE8-82D6-B52160ED299E}|Shopping.Client\\Shopping.Client.csproj|c:\\users\\lastbornmesh\\documents\\coding\\shopping\\shopping.client\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F360A90D-0FBC-2EE8-82D6-B52160ED299E}|Shopping.Client\\Shopping.Client.csproj|solutionrelative:shopping.client\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F360A90D-0FBC-2EE8-82D6-B52160ED299E}|Shopping.Client\\Shopping.Client.csproj|c:\\users\\lastbornmesh\\documents\\coding\\shopping\\shopping.client\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F360A90D-0FBC-2EE8-82D6-B52160ED299E}|Shopping.Client\\Shopping.Client.csproj|solutionrelative:shopping.client\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F360A90D-0FBC-2EE8-82D6-B52160ED299E}|Shopping.Client\\Shopping.Client.csproj|c:\\users\\lastbornmesh\\documents\\coding\\shopping\\shopping.client\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F360A90D-0FBC-2EE8-82D6-B52160ED299E}|Shopping.Client\\Shopping.Client.csproj|solutionrelative:shopping.client\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F360A90D-0FBC-2EE8-82D6-B52160ED299E}|Shopping.Client\\Shopping.Client.csproj|c:\\users\\lastbornmesh\\documents\\coding\\shopping\\shopping.client\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F360A90D-0FBC-2EE8-82D6-B52160ED299E}|Shopping.Client\\Shopping.Client.csproj|solutionrelative:shopping.client\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F360A90D-0FBC-2EE8-82D6-B52160ED299E}|Shopping.Client\\Shopping.Client.csproj|c:\\users\\lastbornmesh\\documents\\coding\\shopping\\shopping.client\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F360A90D-0FBC-2EE8-82D6-B52160ED299E}|Shopping.Client\\Shopping.Client.csproj|solutionrelative:shopping.client\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F360A90D-0FBC-2EE8-82D6-B52160ED299E}|Shopping.Client\\Shopping.Client.csproj|c:\\users\\lastbornmesh\\documents\\coding\\shopping\\shopping.client\\data\\productcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F360A90D-0FBC-2EE8-82D6-B52160ED299E}|Shopping.Client\\Shopping.Client.csproj|solutionrelative:shopping.client\\data\\productcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F360A90D-0FBC-2EE8-82D6-B52160ED299E}|Shopping.Client\\Shopping.Client.csproj|c:\\users\\lastbornmesh\\documents\\coding\\shopping\\shopping.client\\shopping.client.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{F360A90D-0FBC-2EE8-82D6-B52160ED299E}|Shopping.Client\\Shopping.Client.csproj|solutionrelative:shopping.client\\shopping.client.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\LASTBORNMESH\\Documents\\CODING\\Shopping\\Shopping.Client\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Shopping.Client\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\LASTBORNMESH\\Documents\\CODING\\Shopping\\Shopping.Client\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Shopping.Client\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-06T13:33:13.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\LASTBORNMESH\\Documents\\CODING\\Shopping\\Shopping.Client\\Dockerfile",
+              "RelativeDocumentMoniker": "Shopping.Client\\Dockerfile",
+              "ToolTip": "C:\\Users\\LASTBORNMESH\\Documents\\CODING\\Shopping\\Shopping.Client\\Dockerfile",
+              "RelativeToolTip": "Shopping.Client\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-05-06T13:23:24.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\LASTBORNMESH\\Documents\\CODING\\Shopping\\Shopping.Client\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Shopping.Client\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\LASTBORNMESH\\Documents\\CODING\\Shopping\\Shopping.Client\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Shopping.Client\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-06T12:38:25.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\LASTBORNMESH\\Documents\\CODING\\Shopping\\Shopping.Client\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Shopping.Client\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\LASTBORNMESH\\Documents\\CODING\\Shopping\\Shopping.Client\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Shopping.Client\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-06T11:45:47.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\LASTBORNMESH\\Documents\\CODING\\Shopping\\Shopping.Client\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Shopping.Client\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\LASTBORNMESH\\Documents\\CODING\\Shopping\\Shopping.Client\\Models\\Product.cs",
+              "RelativeToolTip": "Shopping.Client\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-06T13:45:32.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductContext.cs",
+              "DocumentMoniker": "C:\\Users\\LASTBORNMESH\\Documents\\CODING\\Shopping\\Shopping.Client\\Data\\ProductContext.cs",
+              "RelativeDocumentMoniker": "Shopping.Client\\Data\\ProductContext.cs",
+              "ToolTip": "C:\\Users\\LASTBORNMESH\\Documents\\CODING\\Shopping\\Shopping.Client\\Data\\ProductContext.cs",
+              "RelativeToolTip": "Shopping.Client\\Data\\ProductContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-06T11:33:37.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Shopping.Client",
+              "DocumentMoniker": "C:\\Users\\LASTBORNMESH\\Documents\\CODING\\Shopping\\Shopping.Client\\Shopping.Client.csproj",
+              "RelativeDocumentMoniker": "Shopping.Client\\Shopping.Client.csproj",
+              "ToolTip": "C:\\Users\\LASTBORNMESH\\Documents\\CODING\\Shopping\\Shopping.Client\\Shopping.Client.csproj",
+              "RelativeToolTip": "Shopping.Client\\Shopping.Client.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-06T11:19:23.327Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

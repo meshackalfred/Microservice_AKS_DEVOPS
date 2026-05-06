@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Shopping.Client/1.0.0": {
+        "dependencies": {
+          "Ignore": "0.2.1"
+        },
+        "runtime": {
+          "Shopping.Client.dll": {}
+        }
+      },
+      "Ignore/0.2.1": {
+        "runtime": {
+          "lib/net8.0/Ignore.dll": {
+            "assemblyVersion": "0.2.0.0",
+            "fileVersion": "0.2.1.63430"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Shopping.Client/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Ignore/0.2.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Qw3s0pTwK3o6Iv6kTMjmxzOt91pczU533OmtAvFRsJ7PdCVMhGCRyUkMsCOI7ejxOtHJdRsj141HeZWeedlqkQ==",
+      "path": "ignore/0.2.1",
+      "hashPath": "ignore.0.2.1.nupkg.sha512"
+    }
+  }
+}
